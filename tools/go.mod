@@ -7,7 +7,7 @@ require (
 	github.com/golangci/golangci-lint v1.56.2
 	github.com/mikefarah/yq/v4 v4.42.1
 	github.com/psampaz/go-mod-outdated v0.9.0
-	helm.sh/helm/v3 v3.14.2
+	helm.sh/helm/v3 v3.14.3
 	sigs.k8s.io/kind v0.22.0
 )
 
@@ -76,7 +76,7 @@ require (
 	github.com/chavacava/garif v0.1.0 // indirect
 	github.com/compose-spec/compose-go v1.20.0 // indirect
 	github.com/containerd/console v1.0.3 // indirect
-	github.com/containerd/containerd v1.7.11 // indirect
+	github.com/containerd/containerd v1.7.12 // indirect
 	github.com/containerd/continuity v0.4.2 // indirect
 	github.com/containerd/log v0.1.0 // indirect
 	github.com/containerd/ttrpc v1.2.2 // indirect
